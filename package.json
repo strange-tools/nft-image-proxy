@@ -1,0 +1,22 @@
+{
+  "name": "nft-image-proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.2",
+    "moralis": "^1.2.4",
+    "sharp": "^0.29.3"
+  },
+  "engines": {
+    "node": "17.x"
+  }
+}
