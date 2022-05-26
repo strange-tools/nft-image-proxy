@@ -3,5 +3,16 @@
     "description": "NFT image proxy powered by Moralis and Node. Supports chains are ETH, BSC, MATIC, FTM and SOL.",
     "repository": "https://github.com/strange-tools/nft-image-proxy",
     "logo": "https://raw.githubusercontent.com/strange-tools/nft-image-proxy/main/icon.png",
-    "keywords": ["Moralis", "NFT", "Image", "Proxy"]
+    "keywords": ["Moralis", "NFT", "Image", "Proxy"],
+    "env": {
+        "SERVER_URL": {
+            "description": "Moralis Server URL: Servers -> View Details -> Server URL."
+        },
+        "APP_ID": {
+            "description": "Moralis Application ID: Servers -> View Details -> Application ID."
+        },
+        "API_KEY": {
+            "description": "Moralis API Key: Web3 API -> Copy API Key -> Default."
+        }
+    }
 }

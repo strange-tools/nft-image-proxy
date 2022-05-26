@@ -14,10 +14,8 @@ NFT image proxy powered by Moralis and Node. Supports chains are ETH, BSC, MATIC
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-1. Click `Deploy to Heroku` button
 1. Create a free Moralis account and server: https://admin.moralis.io/register
-1. Set Heroku `Config Vars` based on `.env.example` and set the Moralis server settings
-1. Start server
+1. Click `Deploy to Heroku` button
 
 ## Examples
 
