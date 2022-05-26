@@ -1,0 +1,7 @@
+{
+    "name": "NFT Image Proxy",
+    "description": "NFT image proxy powered by Moralis and Node. Supports chains are ETH, BSC, MATIC, FTM and SOL.",
+    "repository": "https://github.com/strange-tools/nft-image-proxy",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["Moralis", "NFT", "Image", "Proxy"]
+}
