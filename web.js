@@ -18,7 +18,7 @@ const API_KEY = process.env.API_KEY || "";
 Moralis.start({ serverUrl:SERVER_URL, appId:APP_ID });
 
 // https://docs.moralis.io/moralis-server/web3-sdk/nft-api#nft-api-specification
-const supportedChains = ['eth', 'bsc', 'matic', 'avax', 'ftm'];
+const supportedChains = ['eth', 'bsc', 'matic', 'ftm'];
 
 async function getTokenImageUri(chain, address, tokenId) {
     const options = { chain: chain, address: address, token_id: tokenId };
