@@ -14,5 +14,6 @@
         "API_KEY": {
             "description": "Moralis API Key: Web3 API -> Copy API Key -> Default."
         }
-    }
+    },
+    "success_url": "/eth/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8520/?width=512&height=512"
 }
